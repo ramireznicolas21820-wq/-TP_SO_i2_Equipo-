@@ -65,7 +65,7 @@ orden de ejecución de los mismos junto con los apellidos y nombre de los alumno
    git merge upstream/main
    git push origin main
 
-6) BETA crea respuesta_I2_EquipoX.txt con el apellido y nombre de los
+6) BETA crea respuesta_I2_Equipo106.txt con el apellido y nombre de los
    alumnos que participaron, y lo sube:
    git add respuesta_I2_Equipo106.txt
    git commit -m "Creo respuesta_I2_Equipo106.txt"
