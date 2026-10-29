@@ -29,7 +29,7 @@ resolver los conflictos antes de continuar.
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
 1) BETA (Ramírez Nicolás) crea el repositorio en GitHub
-   (New repository > "TP_SO_i2_EquipoX" > Add a README > Create repository)
+   (New repository > "TP_SO_i2_Equipo106" > Add a README > Create repository)
    y crea fork.txt (Add file > Create new file > Commit changes).
 
 2) GAMMA (Sabetay Agustin) hace Fork del repo de BETA desde la web de GitHub
@@ -67,15 +67,15 @@ orden de ejecución de los mismos junto con los apellidos y nombre de los alumno
 
 6) BETA crea respuesta_I2_EquipoX.txt con el apellido y nombre de los
    alumnos que participaron, y lo sube:
-   git add respuesta_I2_EquipoX.txt
-   git commit -m "Creo respuesta_I2_EquipoX.txt"
+   git add respuesta_I2_Equipo106.txt
+   git commit -m "Creo respuesta_I2_Equipo106.txt"
    git push origin main
 
 7) Cada integrante trae lo último del archivo, agrega sus respuestas y sube
    (GAMMA: a y b, BETA: c y d, ALFA: e):
    git fetch upstream
    git merge upstream/main
-   (edita respuesta_I2_EquipoX.txt y guarda)
-   git add respuesta_I2_EquipoX.txt
+   (edita respuesta_I2_Equipo106.txt y guarda)
+   git add respuesta_I2_Equipo106.txt
    git commit -m "Agrego mis respuestas"
    git push origin main
